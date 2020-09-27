@@ -1,3 +1,5 @@
+#include<stdio.h>
+#include<string.h>
 #include "Checkisogram.h"
 int isogram(char ls[])
 {
