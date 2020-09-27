@@ -1,3 +1,6 @@
+#include<stdio.h>
+#include<stdlib.h>
+#include<ctype.h>
 #include "Checkisogram.h"
 int main() {
     char s[100],ls[100];
